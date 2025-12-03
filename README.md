@@ -1,2 +1,13 @@
-# Biodiversity-Intactness-Index-Change
-Repository housing code and outputs for the project investigating the impacts of urban expansion in Maricopa County in Phoenix, AZ.
+# Biodiversity Intactness Index Change
+Investigating the impacts of urban expansion in Maricopa County in Phoenix, AZ.
+
+
+## Content
+```bash 
+repository
+│   README.md 
+|   notebooks
+|   .gitignore
+|   └── data  # 
+        │   data-files
+```
