@@ -13,8 +13,10 @@ The biodiversity intactness index (BII) is a measure of a region's average remai
 3. Calculate BII statistics using `xarray.DataArray`
 4. Map BII loss.
 
+# Data
+BII data were sourced from the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/dataset/io-biodiversity). These data are housed in a public catalog of many collections, and we will access the io-biodiversity catalog for our area of interest. Shapefiles for the area of Maricopa county in Arizone were sourced from [U.S. Census Bureau Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB)](https://catalog.data.gov/dataset/tiger-line-shapefile-2023-county-maricopa-county-az-topological-faces-polygons-with-all-geocode/resource/ddb9186b-11a1-484b-98e0-7fbcb3f8cbe2). These data contain polygons for every county subdivision in Arizona, which we will subset for our area of interest.
 
-## Content
+# Content
 ```bash 
 repository
 │   README.md: contains README code.
@@ -24,3 +26,9 @@ Data are not pushed to github, this is the recommended file structure:
 |   └── data  # 
         │   data-files
 ```
+# Citations
+Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way off into the horizon’,” The Washington Post, Aug. 2021, Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Nov. 22, 2024]
+
+Microsoft Planetary Computer. (2024). Microsoft.com. https://planetarycomputer.microsoft.com/dataset/io-biodiversity
+
+Data.gov. (2023). Data.gov. https://catalog.data.gov/dataset/tiger-line-shapefile-2023-county-maricopa-county-az-topological-faces-polygons-with-all-geocode/resource/ddb9186b-11a1-484b-98e0-7fbcb3f8cbe2
