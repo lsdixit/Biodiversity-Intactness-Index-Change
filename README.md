@@ -25,7 +25,7 @@ Data access: Data for this project were accessed on 12/01/2025. Data can be down
 ```bash 
 repository
 │   README.md: contains README code.
-|   bii_change.ipnyb: This project's code and output.
+|   bii_change.ipnyb: The project code and output.
 Data are not pushed to github, this is the recommended file structure:
 |   .gitignore
 |   └── data folder
