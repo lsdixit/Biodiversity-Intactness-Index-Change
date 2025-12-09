@@ -37,3 +37,6 @@ Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way o
 Microsoft Planetary Computer. (2024). Microsoft.com. https://planetarycomputer.microsoft.com/dataset/io-biodiversity
 
 Data.gov. (2023). Data.gov. https://catalog.data.gov/dataset/tiger-line-shapefile-2023-county-maricopa-county-az-topological-faces-polygons-with-all-geocode/resource/ddb9186b-11a1-484b-98e0-7fbcb3f8cbe2
+
+# Acknowledgments
+This work was done by Leela Dixit, with support from Carmen Galaz García, Annie Adams, and classmates from the MEDS [EDS 220](https://bren.ucsb.edu/courses/eds-220) UCSB course. 
